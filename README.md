@@ -1,6 +1,6 @@
 ### Book Store
 
-This project will eventually adopt a microservice architecutre.
+This project will eventually adopt a microservice architecture.
 
 The three services are :
 
