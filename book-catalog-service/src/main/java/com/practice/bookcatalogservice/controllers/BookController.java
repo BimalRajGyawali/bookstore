@@ -20,10 +20,6 @@ public class BookController {
         this.bookCatalogService = bookCatalogService;
     }
 
-    @GetMapping("/")
-    public List<BookCatalog> getAll(){
-        return bookCatalogService.getAll();
-    }
 
     @GetMapping("/{bookId}")
     public BookCatalog findBy(@PathVariable String bookId) throws NoSuchElementException{
