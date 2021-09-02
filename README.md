@@ -16,3 +16,4 @@ The three services :
     achieve its functions.
 
 ### Architecture ( without service discovery pattern)
+<img src="architecture.jpg">
