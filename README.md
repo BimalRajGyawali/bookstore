@@ -15,5 +15,5 @@ The three services are :
    - Communicates with book-info-service and book-rating service to 
     achieve its functions.
 
-### Architecture ( without service discovery pattern)
-<img src="architecture.jpg">
+### Architecture
+<img src="eureka.jpg">
