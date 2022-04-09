@@ -16,4 +16,4 @@ The three services are :
     achieve its functions.
 
 ### Architecture
-<img src="eureka.jpg">
+<img src="bookstore.jpg">
